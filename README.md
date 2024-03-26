@@ -6,3 +6,4 @@
 - [basics of Julia](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab1)
 - [computer arithmetic](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab2)
 - [basics of R](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab3)
+- [interpolation](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab4)

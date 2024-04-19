@@ -8,3 +8,5 @@
 - [Basics of R](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab3)
 - [Interpolation](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab4)
 - [Approximation](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab5)
+- [Orthogonal polynomials](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab6)
+- [Integration](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab7)

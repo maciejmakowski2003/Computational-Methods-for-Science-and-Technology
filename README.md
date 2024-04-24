@@ -10,3 +10,4 @@
 - [Approximation](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab5)
 - [Orthogonal polynomials](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab6)
 - [Integration](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab7)
+- [Roots](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab8)

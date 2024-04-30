@@ -2,7 +2,7 @@
 
 4-th semester course about computional methods for Science and Technology at AGH University of Cracow. 
 
-## Exercises: 
+## Covered topics: 
 - [Basics of Julia](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab1)
 - [Computer arithmetic](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab2)
 - [Basics of R](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab3)
@@ -11,3 +11,4 @@
 - [Orthogonal polynomials](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab6)
 - [Integration](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab7)
 - [Roots](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab8)
+- [Factorization](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab9)

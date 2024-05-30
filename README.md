@@ -12,3 +12,5 @@
 - [Integration](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab7)
 - [Roots](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab8)
 - [Factorization](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab9)
+- [Ordinary differential equation](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab10)
+- [Fast Fourier transform](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab11)

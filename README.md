@@ -14,3 +14,4 @@
 - [Factorization](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab9)
 - [Ordinary differential equation](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab10)
 - [Fast Fourier transform](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab11)
+- [Finite-Difference Eigenmode](https://github.com/maciejmakowski2003/Computational-Methods-for-Science-and-Technology/tree/main/lab12)
